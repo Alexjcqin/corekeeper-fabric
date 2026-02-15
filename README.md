@@ -4,10 +4,9 @@ A Minecraft Fabric mod that brings Core Keeper content to Minecraft.
 
 ## Features
 
-- Custom mobs (Orange Slime, Purple Slime, Larva, Snare Plant, etc.)
-- New items (Recall Idol, Scarlet Chest, etc.)
-- Custom dimensions (Azeos Wilderness)
-- Magic systems and trinkets
+- Custom mobs
+- New items 
+- Custom dimensions 
 - And more!
 
 ## Installation
