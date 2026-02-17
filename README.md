@@ -13,12 +13,12 @@ A Minecraft Fabric mod that brings Core Keeper content to Minecraft.
 
 1. Install [Fabric Loader](https://fabricmc.net/use/)
 2. Download [Fabric API](https://modrinth.com/mod/fabric-api)
-3. Download the latest release from [Releases](https://github.com/yourusername/corekeeper-fabric/releases)
+3. Download the latest release from [Releases](https://github.com/Alexjcqin/corekeeper-fabric/releases)
 4. Place the mod file in your `.minecraft/mods` folder
 
 ## Bug Reports
 
-Found a bug? [Report it here](https://github.com/yourusername/corekeeper-fabric/issues)
+Found a bug? [Report it here](https://github.com/Alexjcqin/corekeeper-fabric/issues)
 
 ## License
 
